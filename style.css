@@ -70,11 +70,10 @@
         color: #0000ff;
     }
 
-    a:hover{
-        color: red;
-    }
-
     a:visited{
         color: #d9ff00;
     }
 
+    a:hover{
+        color: red;
+    }
